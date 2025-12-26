@@ -19,5 +19,22 @@ This repository houses a variety of examples, projects, and resources to help yo
 11. [TypeWriterAnimation](11_TypeWriterAnimation) - Adding typewriter animations to your Flet applications.
 12. [TimerApp](12_TimerApp) - Building a timer application with a watermark feature.
 13. [QRi.Py](13_QRi.Py) - Generating multiple QR codes with Flet.
+14. [14_hello_world](14_hello_world)
+    
+    | mkdir 14_hello_world |
+    | -------------------- |
+    | cd 14_hello_world    |
+    | flet create          |
+    | flet run             |
 
-Happy learning with Flet! 🌐💻
+![](/home/mhcrnl/Desktop/Decembrie_2025/FletSchool/14_hello_world/img/01img.png)
+
+
+
+[Happy]() learning with Flet! 🌐💻
+
+| 14_hello_world | flet create |     |
+| -------------- | ----------- | --- |
+|                |             |     |
+|                |             |     |
+|                |             |     |
