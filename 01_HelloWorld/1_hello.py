@@ -12,7 +12,8 @@ def main(page: ft.Page):
     page.update()
 
 # starting the app
-ft.app(target=main)
+# ft.app(target=main)
+ft.run(main)
 
 # for running it in web browser
 '''

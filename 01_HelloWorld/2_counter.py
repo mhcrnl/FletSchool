@@ -13,4 +13,5 @@ def main(page: ft.Page):
         page.update()
         sleep(1) # it will make the program sleep for 1 second
 
-ft.app(target=main)
+# ft.app(target=main)
+ft.run(main)
